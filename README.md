@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gerciocrystal
-- 👀 I’m interested in programing
+- 👀 I’m interested in webDev
 - 🌱 I’m currently learning software engineer
-- 💞️ I’m looking to collaborate on JavaScript
+- 💞️ I’m looking to collaborate on javaScript, java , c++ , c ,reactJs, UI/UIX design
 
 
 
