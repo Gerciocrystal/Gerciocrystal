@@ -7,7 +7,7 @@
 
 
 - you can check some of my resent djobs
-- SGA - https://sgm-up.onrender.com/
+- SGA - https://atendimento.dra.up.ac.mz
 - SGJ - https://sgjc.onrender.com/
 - School - https://mentes-brilhantes-94782.web.app/
 
