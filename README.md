@@ -1,10 +1,12 @@
 👋 Olá! Eu sou Jercio Narciso, um desenvolvedor apaixonado por criar soluções inovadoras e eficientes.
 🎓 Graduado em Engenharia de Desenvolvimento de Software pela UP-Maputo, tenho uma sólida base em ciência da computação e desenvolvimento de software.
-💼 Tenho experiência em trabalhar com a stack MERN (MongoDB, Express.js, React, Node.js), desenvolvendo aplicações web completas, desde o back-end robusto até o front-end interativo.
+💼 Tenho experiência em trabalhar com Wordpress, stack MERN (MongoDB, Express.js, React, Node.js), desenvolvendo aplicações web completas, desde o back-end robusto até o front-end interativo.
 
 🔧 Habilidades Principais:
 - JavaScript (ES6+), TypeScript
 - React, Context API
+- Wordpress + Elementor
+- Ionic React
 - Node.js, Express.js
 - MongoDB, Mongoose
 - REST APIs, JWT (JSON Web Tokens)
