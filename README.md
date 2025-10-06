@@ -18,6 +18,6 @@
 
 Email: gerciobandep@gmail.com
 - **Portifolio - https://gerciocrystal.github.io/portifolio/**
-
+- **Linkedin - https://www.linkedin.com/in/gercio-bande-871a09294/**
 
 
