@@ -5,6 +5,8 @@
 🔧 Habilidades Principais:
 - JavaScript (ES6+), TypeScript
 - React, Context API
+- Claude (vscode prompt)
+- Sequelize (SQL)
 - Wordpress + Elementor
 - Ionic React
 - Node.js, Express.js
